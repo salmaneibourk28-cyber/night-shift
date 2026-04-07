@@ -1,0 +1,9 @@
+Les sources du jeu ont ete deplacees a la racine du depot (dossier parent).
+
+Pour un nouvel environnement virtuel a la racine :
+  python -m venv venv
+  venv\Scripts\activate
+  pip install -r requirements.txt
+  python night_shift.py
+
+Vous pouvez supprimer ce dossier night-shift/ (venv inclus) une fois que tout fonctionne depuis la racine.

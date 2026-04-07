@@ -1,0 +1,100 @@
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1701, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1496, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1701, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1496, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1701, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1496, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1701, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1496, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1701, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1496, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1789, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1581, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1789, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1581, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1789, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1581, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1789, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1581, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
+
+---
+Traceback (most recent call last):
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1789, in run
+    self.handle_game_click(e)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "c:\Users\PC\Documents\ngs\night_shift.py", line 1581, in handle_game_click
+    self.notif = (f"Examen realise : {EXAMS[ek]['label']}", COLORS["cyan"])
+                                                            ~~~~~~^^^^^^^^
+KeyError: 'cyan'
